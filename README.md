@@ -97,7 +97,7 @@ git clone https://github.com/Abel-tefera/ruby-tdd.git
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Patrick-Mukula)
 
 ### 👤 **Abel tefera**:
-- GitHub: [@Abel_on_GitHub](https://github.com/Abel-tefera)
+- GitHub: [@Abel-tefera](https://github.com/Abel-tefera)
 - Twitter: [@Abel_on_Twitter](https://twitter.com/Abel-tefera)
 - LinkedIn: [@Abel_on_LinkedIn](https://www.linkedin.com/in/abel-tefera/)
   
