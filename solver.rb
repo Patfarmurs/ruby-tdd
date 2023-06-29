@@ -1,14 +1,14 @@
 class Solver
-  def factorial(n)
-    return 1 if n.zero?
+  def factorial(num)
+    return 1 if num.zero?
 
-    n * factorial(n - 1)
+    num * factorial(num - 1)
   end
 
-  def find(n)
+  def find(num)
     raise ArgumentError, 'Argument must be greater than or equal to 0.' if n.negative?
 
-    factorial(n)
+    factorial(num)
   end
 
   def fizzbuzz(num)
