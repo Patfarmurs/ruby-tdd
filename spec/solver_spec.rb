@@ -43,15 +43,9 @@ describe Solver do
     it('should reverse hello to olleh') do
       expect(rev_str_obj.reverse('hello')).to eq('olleh')
     end
-    
+
     it('should reverse abel to leba') do
       expect(rev_str_obj.reverse('abel')).to eq('leba')
     end
   end
 end
-
-
-
-
-
-
