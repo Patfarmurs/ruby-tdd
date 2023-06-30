@@ -6,7 +6,7 @@ class Solver
   end
 
   def find(num)
-    raise ArgumentError, 'Argument must be greater than or equal to 0.' if n.negative?
+    raise ArgumentError, 'Argument must be greater than or equal to 0.' if num.negative?
 
     factorial(num)
   end
